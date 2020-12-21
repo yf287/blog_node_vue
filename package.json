@@ -1,0 +1,19 @@
+{
+  "name": "spider",
+  "version": "1.0.0",
+  "description": "node爬虫实验",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yf287/node-spider.git"
+  },
+  "author": "mjFeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yf287/node-spider/issues"
+  },
+  "homepage": "https://github.com/yf287/node-spider#readme"
+}
