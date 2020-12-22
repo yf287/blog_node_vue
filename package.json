@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/yf287/node-spider/issues"
   },
-  "homepage": "https://github.com/yf287/node-spider#readme"
+  "homepage": "https://github.com/yf287/node-spider#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "superagent": "^6.1.0"
+  }
 }
